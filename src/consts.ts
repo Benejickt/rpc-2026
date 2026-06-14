@@ -4,13 +4,13 @@
 //サイトの基本URL。これは変わらない。
 export const SITE = 'https://rokkophysicsclub.github.io';
 //サイトのリポジトリ名。基本的に"rpc-[西暦]"の形式
-export const BASE = '/rpc-20xx/';
+export const BASE = '/rpc-2026/';
 //くっつけてみた
 export const BASE_URL= SITE+BASE;
 //サイトのタイトル
-export const SITE_TITLE = '六甲学院物理部20xx';
+export const SITE_TITLE = '六甲学院物理部2026';
 //サイトの説明
-export const SITE_DESCRIPTION = '六甲学院物理部の20xx年度オンライン文化祭サイトです。（学校非公式）';
+export const SITE_DESCRIPTION = '六甲学院物理部の2026年度オンライン文化祭サイトです。（学校非公式）';
 //Google Analytics 4のトラッキングID。
 export const TRACKING_ID = 'G-うんたらかんたら';
 //サイドバーのメニューたち
@@ -60,4 +60,4 @@ export const SOCIALS = [
   }
 ]
 //クレジット欄
-export const SITE_CREDIT = '20xx 六甲学院物理部';
+export const SITE_CREDIT = '2026 六甲学院物理部';
