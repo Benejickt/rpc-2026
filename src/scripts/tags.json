@@ -1,6 +1,45 @@
 {
   "tags": [
     {
+      "name": "Python",
+      "articles": [
+        {
+          "link": "../works/88th_Yyama.mdx",
+          "title": "AI全任せで音ゲー完成した話",
+          "description": "今流行りのCodexに頼んだらノーコーディングで音ゲーが完成してしまった",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "name": "AI",
+      "articles": [
+        {
+          "link": "../works/88th_Yyama.mdx",
+          "title": "AI全任せで音ゲー完成した話",
+          "description": "今流行りのCodexに頼んだらノーコーディングで音ゲーが完成してしまった",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "name": "Game",
+      "articles": [
+        {
+          "link": "../works/88th_Yyama.mdx",
+          "title": "AI全任せで音ゲー完成した話",
+          "description": "今流行りのCodexに頼んだらノーコーディングで音ゲーが完成してしまった",
+          "image": ""
+        },
+        {
+          "link": "../works/Example.mdx",
+          "title": "作品のタイトル",
+          "description": "作品の簡単な説明",
+          "image": "..作品のメイン画像"
+        }
+      ]
+    },
+    {
       "name": "作品に付きそうなタグ",
       "articles": [
         {
@@ -53,17 +92,6 @@
           "title": "Transpiler",
           "description": "ProcessingのコードをJavaScriptに変換するTranspiler",
           "image": ""
-        }
-      ]
-    },
-    {
-      "name": "Game",
-      "articles": [
-        {
-          "link": "../works/Example.mdx",
-          "title": "作品のタイトル",
-          "description": "作品の簡単な説明",
-          "image": "..作品のメイン画像"
         }
       ]
     },
